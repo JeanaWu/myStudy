@@ -1,3 +1,4 @@
+link：file:///Users/wu.juan/Desktop/webDesign/web%20midterm.html
 # HTTP
 
 - http is a pull protocol, the client pull information from the server
